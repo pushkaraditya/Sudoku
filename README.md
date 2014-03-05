@@ -1,4 +1,0 @@
-Sudoku
-======
-
-Sudoku in WPF
